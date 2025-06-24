@@ -1,0 +1,10 @@
+﻿Lead,Salary (k),Free coffee,Home office,Offer score,Note
+1,10,No,No,8,Lead = [1 or 10]
+10,1,Yes,Yes,2,"Salary = [1k, 5k, or 10k]"
+1,1,Yes,Yes,7,Free coffee = [Yes or No]
+10,10,Yes,Yes,9,Home office = [Yes or No]
+10,10,No,No,7,
+1,1,No,No,3,
+10,5,Yes,Yes,6,
+1,5,No,Yes,7,
+1,5,Yes,No,5,
